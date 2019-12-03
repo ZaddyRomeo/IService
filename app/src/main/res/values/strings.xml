@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IService</string>
+    <string name="customer_name">customer name</string>
+    <string name="service_number">service number</string>
+    <string name="complaint">complaint</string>
+    <string name="name">Name</string>
+    <string name="submit">submit</string>
+    <string name="message">Message</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="contact">contact</string>
+    <string name="contactno">Contactno</string>
+    <string name="database">Database</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="ticket">ticket</string>
+    <string name="tasks">Tasks</string>
+    <string name="Name">TextView</string>
+    <string name="Address">TextView</string>
+    <string name="status">Status</string>
+    <string name="service">Service#</string>
+    <string name="submitb">SUBMIT</string>
+    <string name="fault">Fault</string>
+    <string name="address">Address</string>
+    <string name="technician">Technician</string>
+    <string name="forms">FORMS</string>
+    <string name="admin_login">ADMIN LOGIN</string>
+    <string name="db">DB</string>
+    <string name="reference">Reference</string>
+    <string name="log">Log</string>
+    <string name="please_enter_log_information_then_press_log">please enter log information then press LOG</string>
+</resources>
